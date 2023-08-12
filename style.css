@@ -1,21 +1,21 @@
 *{
    text-align: center;
-   text-decoration: underline black;
+   text-decoration: underline rgb(210, 165, 30);
    text-shadow: 1px 1px 0px rgb(190, 220, 20);
-   background-color: rgb(32, 131, 218);
+   background-color: antiquewhite;
    text-transform: capitalize;
 }
 .one{
      font-family: 'Satisfy', cursive;
-     background-color: rgba(137, 43, 226, 0.108);
+     background-color: rgba(43, 226, 189, 0.108);
 }
 .two{
      font-family: 'EB Garamond', serif;
-     background-color: rgba(137, 43, 226, 0.205);
+     background-color: rgba(226, 43, 223, 0.205);
 }
 .three{
        font-family: 'Lobster', cursive;
-       background-color: rgba(137, 43, 226, 0.303);
+       background-color: rgba(226, 220, 43, 0.303);
 }
 .four{
       font-family: 'Roboto Condensed', sans-serif;
@@ -23,25 +23,25 @@
 }
 .five{
       font-family: 'Playfair Display', serif;
-      background-color: rgba(137, 43, 226, 0.506);
+      background-color: rgba(43, 226, 89, 0.506);
 }
 .six{
      font-family: 'Pacifico', cursive;
-     background-color: rgba(137, 43, 226, 0.601);
+     background-color: rgba(226, 43, 192, 0.601);
 }
 .seven{
        font-family: 'Zilla Slab', serif;
-       background-color: rgba(137, 43, 226, 0.702);
+       background-color: rgba(226, 43, 168, 0.702);
 }
 .eight{
        font-family: 'Abril Fatface', cursive;
-       background-color: rgba(137, 43, 226, 0.812);
+       background-color: rgba(43, 159, 226, 0.812);
 }
 .nine{
       font-family: 'Shadows Into Light', cursive;
-      background-color: rgba(137, 43, 226, 0.905);
+      background-color: rgba(226, 162, 43, 0.905);
 }
 .ten{
      font-family: 'Indie Flower', cursive;
-     background-color: rgba(137, 43, 226, 0.993);
+     background-color: rgba(226, 208, 43, 0.993);
 }
